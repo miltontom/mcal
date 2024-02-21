@@ -2,6 +2,8 @@
 
 Get linux file permissions in numeric format from the command-line.
 
+![mcal](preview/mcal.gif)
+
 ## Setup
 
 * The binaries are available in the respective folders based on the OS
