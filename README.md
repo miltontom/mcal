@@ -9,7 +9,7 @@ Get linux file permissions in numeric format from the command-line.
 
 ## How to use?
 
-Running `mcal` gives,
+Running `mcal` with no argument gives,
 
 ```bash
 Usage
